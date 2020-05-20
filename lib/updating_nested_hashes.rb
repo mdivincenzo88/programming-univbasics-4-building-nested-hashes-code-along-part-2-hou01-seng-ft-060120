@@ -70,5 +70,5 @@ epic_tragedy[:additional_characters] = [ { name: "Prince Esaclus" }, {name: "Apo
    # After your code, the following line will return the altered hash
    epic_tragedy
    
-   push epic_tragedy 
+   puts epic_tragedy 
 end
