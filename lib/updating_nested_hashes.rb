@@ -72,3 +72,5 @@ epic_tragedy[:additional_characters] = [ { name: "Prince Esaclus" }, {name: "Apo
    
    puts epic_tragedy 
 end
+
+return update_status
